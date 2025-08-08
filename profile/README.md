@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Tomevio</h1>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/logo-light.svg">
     <img alt="Tomevio: Your personal book tracking companion"
-         src="assets/logo-light.svg"
+         src="../assets/logo-light.svg"
          width="50%">
   </picture>
   <p>Track and discover books across devices. The FOSS way.</p>
@@ -39,4 +39,4 @@ Check out the individual repository READMEs for setup steps, or browse open issu
 
 ## License
 
-All Tomevio projects are released under the [MIT License](./LICENSE).
+All Tomevio projects are released under the [MIT License](../LICENSE).
